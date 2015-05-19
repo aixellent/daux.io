@@ -1,14 +1,14 @@
 {
-    "name": "justinwalsh/daux.io",
+    "name": "Marcel Schmitz",
     "type": "project",
     "license": "MIT",
-    "description": "Documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly",
+    "description": "Documentation of the UI/UX project",
     "keywords": ["documentation", "docs", "markdown", "md"],
-    "homepage": "http://daux.io/",
+    "homepage": "http://www.mehrkanal.com/",
     "authors": [
         {
-            "name": "Justin Walsh",
-            "homepage": "http://todaymade.com/"
+            "name": "Marcel Schmitz",
+            "homepage": "http://www.redphoenix.de"
         }
     ],
     "require": {

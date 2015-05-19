@@ -1,9 +1,9 @@
 {
-    "title": "My Project",
-    "tagline": "My Stylish Documentation",
-    "author": "I, Me & Myself",
+    "title": "UI/UX Projekt",
+    "tagline": "Komplette Überarbeitung der Benutzeroberflächenkomponenten",
+    "author": "Marcel Schmitz",
     "image": "",
-    "theme": "daux-blue",
+    "theme": "daux-red",
     "breadcrumbs": false,
     "template": "default",
     "clean_urls": false,
@@ -14,14 +14,14 @@
     "repo": "",
     "twitter": [],
     "google_analytics": "",
-    "timezone": "America/Los_Angeles",
+    "timezone": "Europe/Berlin",
     "piwik_analytics": false,
     "piwik_analytics_id": "0",
     "languages": {},
     "ignore": {
         "files": [],
         "folders": []
-    },    
+    },
     "links": {
     }
 }
