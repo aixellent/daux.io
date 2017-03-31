@@ -1,16 +1,17 @@
-#Dokumentation UI/UX Projekt
+#Dokumentation Factfinder Integration
 
 <p class="lead">
-	Willkommen auf der Dokumentationsseite des <strong>UI/UX Projekts</strong> der MEHRKANAL GmbH.
+	Willkommen auf der Dokumentationsseite der Factfinder Integration durch das WebDev Team.
 </p>
 
 <hr/>
 <h3>Beinhaltete Tasks</h3>
 <hr/>
 
-<img src="img/app-thumbs.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
-
-* 100% Mobile Responsive
-* Supports GitHub Flavored Markdown
-
-<div class="clear"></div>
+* Vorbereitung der Infrastruktur
+    * Branches
+    * Jenkins Jobs für Build & Deployment
+* Einbau in die Groovy Logic
+* Redirects
+    * Allgemein
+    * Special pages (Impressum / Ein Suchergebnis)

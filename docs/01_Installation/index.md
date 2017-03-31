@@ -1,2 +1,2 @@
-### Installationsanleitungen für den MMS Frontend Generator
-Hier werden Installationsanleitungen für alle benötigten Komponenten des MMS Frontend Generators bereitgestellt.
+### Einrichtung & Konfiguration des Factfinders
+Hier werden die Schritte erläutert, die nötig sind um Factfinder im Shop als Suchengine zu verwenden.
